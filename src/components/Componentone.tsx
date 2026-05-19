@@ -30,7 +30,7 @@ const VillageHeroSection: React.FC = () => {
 				/>
 			</div>
 
-			<div className="max-w-full mx-auto px-6 lg:px-12 py-16 lg:py-24 relative z-10 bg-[url(image_adb3c4bc.png)] bg-no-repeat bg-cover ">
+			<div className="max-w-full mx-auto px-6 lg:px-12 py-16 lg:py-24 relative z-10 bg-[url(/image_adb3c4bc.png)] bg-no-repeat bg-cover ">
 				<div className="grid lg:grid-cols-2 gap-14 items-center">
 					{/* LEFT CONTENT */}
 					<motion.div
